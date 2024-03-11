@@ -19,11 +19,3 @@ We take the security of your information seriously. Easy Calculator employs reas
 ## Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Any changes will be reflected in the app, and the updated policy will be effective immediately upon posting. It is advisable to review this Privacy Policy periodically for any changes.
-
-## Contact Us
-
-If you have any questions or concerns about this Privacy Policy, please contact us at [Your Contact Information].
-
-## Policy URL
-
-[Provide the URL where your complete Privacy Policy can be accessed. You can host it on a website or use a service that allows you to create a privacy policy page.]
