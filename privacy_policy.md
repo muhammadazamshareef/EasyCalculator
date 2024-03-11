@@ -1,6 +1,6 @@
 # Easy Calculator Privacy Policy
 
-**Last Updated: [Date]**
+**Last Updated: 11/03/2024**
 
 Thank you for using Easy Calculator, a simple and efficient calculator application for Android. This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information when you use our application.
 
